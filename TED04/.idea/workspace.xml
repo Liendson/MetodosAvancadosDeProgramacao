@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d852ee-d1c7-4a91-85ba-8bb6569c8687" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../ferramentas/java/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\ambiente\ferramentas\java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="jdk8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVDIqGA0aVpWA7FnP2nrwSvCKu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d852ee-d1c7-4a91-85ba-8bb6569c8687" name="Default Changelist" comment="" />
+      <created>1586811790079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586811790079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1718" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1586812971119">
+      <screen x="1366" y="0" width="1093" height="582" />
+    </state>
+    <state x="1718" y="0" key="#com.intellij.ide.util.MemberChooser/1366.0.1093.582/0.0.1366.728@1366.0.1093.582" timestamp="1586812971119" />
+    <state x="1366" y="0" key="new project wizard" timestamp="1586822177530">
+      <screen x="1366" y="0" width="1093" height="582" />
+    </state>
+    <state x="1366" y="0" key="new project wizard/1366.0.1093.582/0.0.1366.728@1366.0.1093.582" timestamp="1586822177530" />
+    <state x="1575" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1586819655394">
+      <screen x="1366" y="0" width="1093" height="582" />
+    </state>
+    <state x="1575" y="-1" width="672" height="678" key="search.everywhere.popup/1366.0.1093.582/0.0.1366.728@1366.0.1093.582" timestamp="1586819655394" />
+  </component>
+</project>

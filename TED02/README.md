@@ -1,0 +1,1 @@
+#### A Responsabilidade do Extrato é da classe Fita, pois a maioria das informações que o método necessita 
